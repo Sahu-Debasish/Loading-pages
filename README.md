@@ -28,6 +28,5 @@ Alternatively, you can grab the [CSS or SASS](https://github.com/jh3y/whirl/tags
 See [`CONTRIBUTING`](https://github.com/jh3y/whirl/blob/master/.github/CONTRIBUTING.md).
 
 ---
-
-@jh3y 🐻 2019
+Demo :- https://whirl.netlify.app/
 
